@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application2</string>
+    <string name="Home">Home</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="Back">Back</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="change_text">Change Text</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="todo">TODO</string>
 </resources>
