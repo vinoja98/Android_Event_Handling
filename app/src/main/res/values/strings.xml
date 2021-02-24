@@ -9,4 +9,9 @@
     <string name="change_text">Change Text</string>
     <string name="go_to_home">Go to Home</string>
     <string name="todo">TODO</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Password" />
+    <string name="sign_up">Sign Up</string>
+    <string name="BackBtn">Back</string>
+    <string name="Sign_up2">Sign Up</string>
 </resources>
